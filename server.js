@@ -25,8 +25,8 @@ client.on("ready", () => {
 })
 
 const notifier = new YouTubeNotifier({
-  hubCallback: 'https://f00d.me/yt',
-  secret: 'THE_ANSWER_TO_THE_UNIVERSE_IS_42'
+  hubCallback: 'https://xxx/yt',
+  secret: ''
 });
 
 
